@@ -1,0 +1,9 @@
+
+{
+  "$schema": "https://unpkg.com/wrangler@4/config-schema.json",
+  "name": "ball-ance",
+  "compatibility_date": "2026-10-25",
+  "assets": {
+    "directory": "."
+  }
+}
